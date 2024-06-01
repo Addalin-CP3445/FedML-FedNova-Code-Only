@@ -1,2 +1,3 @@
-# FedML-with-enhanced-FedNova
-Implementation of FedNova algorithm with Differential Privacy for MSc research project in the FedML software
+# FedML-FedNova-Code-Only
+
+Changes I made to the FedML code and not the entire FedML 
